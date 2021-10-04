@@ -1,0 +1,12 @@
+.div {
+    background: rgb(195, 216, 236);
+    padding: 100px 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.about-image {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}

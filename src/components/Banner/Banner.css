@@ -1,0 +1,25 @@
+.banner {
+    background-image: url("https://img.freepik.com/free-photo/education-day-assortment-with-copy-space_23-2148721275.jpg?size=626&ext=jpg"),
+      linear-gradient(rgba(0, 0, 0, 0.562), rgba(0, 0, 0, 0.589));
+    height: 780px;
+    /* width: 100%; */
+    /* border: 1px solid red; */
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .title {
+    color: white;
+    font-weight: bold;
+    font-size: 59px;
+  }
+  .about-btn {
+    background-color: #0586ff;
+    outline: none;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+  }

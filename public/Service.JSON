@@ -1,0 +1,34 @@
+[
+    {
+        "name":"Physics",
+        "img":"https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/en/twitter-tips/desktop-assets/chapter-4/new/ch-4-3-share-icon.png.twimg.1920.png",
+        "discription":"Physics is the basic physical science. Until rather recent times physics and natural philosophy were used interchangeably for the science whose aim is the discovery and"
+        
+
+    },
+    {
+        "name":"Biology",
+        "img":"https://png.pngtree.com/element_our/20190529/ourlarge/pngtree-flat-book-icon-download-image_1196934.jpg",
+        "discription":"Biology is a branch of science that deals with living organisms and their vital processes. Biology encompasses diverse fields, including botany, conservation, ecology,"
+    },
+    {
+        "name":"Higher math",
+        "img": "https://icons-for-free.com/iconfiles/png/512/math+tutor+icon-1320195955563127435.png",
+        "discription":"So that you can create a solution or answer for your SSC Advanced Mathematics Assignment by looking at our sample answer sheet. But the solution of the assignment cannot be written by looking ."
+    },
+    {
+        "name":"English",
+        "img":"https://www.kindpng.com/picc/m/77-779732_learn-english-icon-png-transparent-png.png",
+        "discription":"A paragraph is a group of words put together to form a group that is usually longer than a sentence. Paragraphs are often made up of several sentences."
+    },
+    {
+        "name":"ICT",
+        "img": "https://www.kindpng.com/picc/m/69-691752_logo-icon-information-technology-clipart-png-download-icon.png",
+        "discription":"So that you can create a solution or answer for your SSC Advanced Mathematics Assignment by looking at our sample answer sheet. But the solution of the assignment cannot be written by looking ."
+    },
+    {
+        "name":"Chemistry",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhDnmSu3uhvSDfazJAbdFuA1HECN2c6rtksQ&usqp=CAU",
+        "discription":"Chemistry is the scientific study of the properties and behavior of matter. ... Chemistry addresses topics such as how atoms and molecules interact via chemical bonds to form new chemical compounds."
+    }
+]
