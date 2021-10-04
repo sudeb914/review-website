@@ -7,8 +7,8 @@ const About = () => {
     return (
         <div>
             <MenuBar/>
-            <div className="row d-flex justify-content-center  align-items-center">
-            <h1 className="text-center p-4 bg-primary text-white">About</h1>
+            <div className="row d-flex justify-content-center mb-5  align-items-center">
+            <h1 className="text-center p-3 fw-bold">About</h1>
                 <div className="col-md-6">
                     <div className="div">
                             <h2 className="text-primary fw-bold ">About Us</h2>

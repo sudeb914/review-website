@@ -19,7 +19,7 @@ const TeamMember = () => {
     return (
         <div>
             <MenuBar/>
-            
+            <h1 className="text-center p-4 fw-bold">Teams</h1>
            <div className="card-container">
            {
                 users.map(user => <SingleService user ={user}></SingleService>)
